@@ -1,0 +1,1 @@
+This repository contains a Jupyter Notebook downloaded from AWS SageMaker. To use it, import it into an AWS SageMaker environment or open it directly using Jupyter Notebook. You need to set up an AWS account to access the data from the CiteSeerX PDF repository.
